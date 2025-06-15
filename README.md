@@ -8,6 +8,7 @@ This interactive Power BI dashboard project presents a comprehensive sales analy
 - Power BI: For creating interactive dashboards and visualizations.
 - Excel/CSV: For data collection and preprocessing.
 
+![Sales Analysis](https://github.com/Abdulrahman-hussen/-Saudi-Arabia-Sales-Analysis-Dashboard-2004-2006-/blob/main/screenshots/%D8%AC%D8%A7%D9%87%D8%B2%20_%20%D8%B5%D9%88%D8%B1%D8%A9%20.png)
 
 ## 🌟 Key Insights & Findings
 The dashboard offers a high-level overview of the company's performance. Below are the key takeaways:
@@ -37,6 +38,8 @@ Carrefour, Panda, Othaim, and Lulu no single store dominates.
 ---
 
 ## 🧩 Dashboard Components
+
+
 This dashboard includes multiple interactive and visually connected elements:
 
 ### 🔹 1. Key Performance Indicators (KPIs)
